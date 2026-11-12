@@ -1,8 +1,8 @@
 # AI Disclosure & Prompt Audit Log
 **Official Deliverable Template | Maintained in GitHub Repository**
 
-> **Milestone** | Weeks 1–2 (active) · Weeks 3–4 (not started)
-> **Status** | Rows 1–16 logged and complete. Rows 17–18 are reserved for the Week 2 and Week 3 sprints. **No code has been generated with AI yet** — the MVP build is a Week 3 task and every code entry will be logged here when it happens.
+> **Milestone** | Weeks 1–2 (delivered) · Week 3 (in progress) · Week 4 (not started)
+> **Status** | Rows 1–16 logged and complete. Rows 17–18 are reserved for the Week 2 and Week 3 sprints. **Week 3 in progress** — code generation entries will be logged here as they happen.
 > **Read time** | 8 min
 
 | | |

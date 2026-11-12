@@ -1,7 +1,7 @@
 # WEEK1_VALIDATION.md
 **The Week 1 checkpoint submission, the usability validation plan, and an honest rubric self-assessment.**
 
-> **Milestone** | Week 1 checkpoint + Week 2 self-assessment | **Status** | Week 1 submitted; Week 2 in progress | **Read time** | 10 min
+> **Milestone** | Week 1 checkpoint + Week 2 self-assessment | **Status** | Week 1 & 2 submitted; Week 3 in progress | **Read time** | 10 min
 
 ---
 
