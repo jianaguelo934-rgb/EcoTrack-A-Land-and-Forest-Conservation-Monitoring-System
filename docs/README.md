@@ -36,4 +36,12 @@
 
 ---
 
+## Team
+
+| Member | Role |
+|---|---|
+| Jian Beaver Carlos T. Aguelo | Lead UI/UX (Leader) |
+| Jay Pangulibay | Lead Mobile Dev |
+| Leonard Vince Cabillada | Product & AI Specialist |
+
 **Team JBL — Section F — Team F-8 — ITMSD1 Inter-Class Mobile Hackathon**
